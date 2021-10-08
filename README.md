@@ -8,9 +8,7 @@ Os dados serão utilizados numa pesquisa em andamento, que cruza as agendas de m
 
 ## Como usar?
 
-O modelo apresenta uma lista de todas as [agendas disponíveis]('https://www.gov.br/mdh/pt-br/acesso-a-informacao/agenda-de-autoridades/) no site do Ministério da Família. 
-
-O modelo permite pode ser usado de duas formas:
+O modelo apresenta uma lista de todas as [agendas disponíveis]('https://www.gov.br/mdh/pt-br/acesso-a-informacao/agenda-de-autoridades/) no site do Ministério da Família, e que pode ser usado de duas maneiras:
 
 1) para buscar a agenda de pessoas espedíficas, que no exemplo buscamo da ministra Damares, ou para; 
 
