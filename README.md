@@ -1,6 +1,6 @@
 # O que motivou a construção desses script?
 
-Esses script raspa a agenda de integrantes do MMFDH que não possuiu uma opção para baixa-la em CSV. Esse trabalho surgiu da necessidade em obter os dados no site, o que reflete a falta de transparência com a divulgação de informações da burocracia estatal. Dessa forma, disponibilizei o script para auxiliar outros pesquisadores que enfrentam tal dificuladade.
+Esses script raspa a agenda de integrantes do MMFDH. O ministério não possuiu uma opção para baixar os dados em formato CSV. Esse trabalho surgiu da necessidade em obter os dados no site, o que reflete a falta de transparência com a divulgação de informações da burocracia estatal. Afim de contribuir com outros pesquisadores, disponibilizei o script para auxiliar outras pessoas enfrentam tal dificuladade.
 
 ## Objetivo
 
