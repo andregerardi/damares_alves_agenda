@@ -10,6 +10,6 @@ Os dados serão utilizados numa pesquisa em andamento, que cruza as agendas de m
 
 O modelo apresenta uma lista de todas as [agendas disponíveis]('https://www.gov.br/mdh/pt-br/acesso-a-informacao/agenda-de-autoridades/) no site do Ministério da Família. Há um csv com essa lista e um dataframe, que pode ser usado de duas maneiras:
 
-1) para buscar a agenda de pessoas espedíficas, que no exemplo buscamo da ministra Damares, ou para; 
+1) para buscar a agenda de pessoas específicas, tal como o exemplo da extração de  dados da ministra, bem como, 
 
 2) realizar a obtenção da agenda de todos os integrantes do ministério. Em outubro de 2021, no momento que elaborei esse modelo, a agenda da ministra somava pouco mais de 1000 linhas, mas quando consideramos todas as agendas de integrantes do ministério, o N foi > 45.000 linhas.
